@@ -1,7 +1,7 @@
 <?php
 $host = "mysql12.000webhost.com";
-$user = "a3736562_marwan";
-$password = "chocomaxx3adjej";
+$user = "XXXXXXXXX";
+$password = "XXXXXXXX";
 $db_name = "a3736562_marwan";
 
 $mysqli = new mysqli($host, $user, $password, $db_name);
